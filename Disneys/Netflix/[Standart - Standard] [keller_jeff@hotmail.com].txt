@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	TRUE	0	clSharedContext	3226bd9d-9292-46ec-a9e3-0c02e2899857
+.whats-on-netflix.com	TRUE	/	TRUE	1711186121	_ga	GA1.2.317019214.1648121321
+.whats-on-netflix.com	TRUE	/	TRUE	1679650121	ccpaApplies	true
+.whats-on-netflix.com	TRUE	/	TRUE	1679650121	ccpaUUID	05617b37-bc9e-4a56-a93f-e4b60bfa3b5c
+.whats-on-netflix.com	TRUE	/	TRUE	1679650121	dnsDisplayed	true
+.whats-on-netflix.com	TRUE	/	TRUE	1679650121	signedLspa	false
+www.whats-on-netflix.com	TRUE	/	FALSE	1679650121	consentUUID	0dd4eeae-400c-4ae4-8bf7-10ba3ac2dbbe
+.netflix.com	TRUE	/	TRUE	1684435573	OptanonAlertBoxClosed	2022-05-18T20:46:13.731Z
+.www.netflix.com	TRUE	/	TRUE	0	cL	1656157069999%7C165615706914829726%7C165615706982805783%7C%7C401%7CCP5KSBYPRZBU5GPMCDXI7H67DY
+.netflix.com	TRUE	/	TRUE	1706226202	memclid	ec9174ab-fc7f-48a2-8df0-4fc950eca299
+.netflix.com	TRUE	/	TRUE	1712509923	nfvdid	BQFmAAEBEJa_oWiD2EEEnmlL4jqZOzxgMKKpWUpn85XVa_DwN8brPn8criSvgpWcaM7wHzjMuxzzpzyrbqlmRt783-wtQRfVsJa0p2LNyzGx_haYnW6Y_eCrVm-AKKm52V4zdhdrOBfKVFaO9VuS-BhRMyybzVXD
+.netflix.com	TRUE	/	TRUE	1713646537	OptanonConsent	isIABGlobal=false&datestamp=Fri+Apr+21+2023+18%3A55%3A37+GMT-0400+(Eastern+Daylight+Time)&version=202301.1.0&consentId=1264889e-b590-498f-b8aa-30baa0ea0dcc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=US%3BVA&isGpcEnabled=0
+.netflix.com	FALSE	/	FALSE	1713694414	NetflixId	ct%3DBQAOAAEBEHkucwbTl67QEMtXxxbtKQqCUGrYUZ_WQG0B6WsCIO_Ng0iHXjKC38Wuz6BJKCIpIVjUFb5P8_ywCCvRzQ4eVe3YaGPClNBOKW4u5L8KIFA0FWbNrGtPQUFOkeI-JMMpfZjgfcRKAh-U3tKfZ2TnguD1Yg3-_2Tixfm_DljWMTPesfAbX7FsX6JoX7s0gAoxCYkc6_KA0tbFxUuTnGDSqU5LgLXuqyKkS-e0LQbux78PAaly9CF71GrkvBwOZBkCGHEXSkjij5XlumL3vWgGqBp8LdXif-kpX59MfbGUA2W0k-CpeKLjvMNZjkvRQIcAbaBqksS41ImDNdcF1AYf69oF4pTz2QrQOBno2zVBK_rB0u9FohdkU6y9nhqDgbdLEE1nyk5ctz0VqxkSw2ckSDnEPNcd4ekpybK9OCTj1A6dVIG5NeNAi_ogEf1PxjZld3vcJaxrkfWwJpETfm9Pf8j_5Ij4MCLmb9P4HJ0_PHbVZfB9Ao8KOcJlXHJ2e-uewmrKUEV-0kXeUs62U1q2dhO2yoJrnkJ5UbUaRrTElZ3RwwOf8oN4sfvkG3F9ZGFnXYjkquU4yX2Jg1bsOu8gVfBWS3gfBIvgonlzYNXf3fuLR6ZjJpm5F7kzfvDTnNLB92-nzlNxlF4H5wez46-WYZIgMUSZ6_7H2SXVVlfHAb8ZM1imqiO4Y0BbLt_nXzai3yvfRXk8ubEgM3toSnTKu5VkG8wMe2XIsDJGXr4wGmq-CEQyMnPprF9RghRpsd_ZZ_hntiX04I6Z0xipk5C6ykGfPlJlO0oFWkIcRJi9tJCt1Dc.%26bt%3Ddbl%26ch%3DAQEAEAABABQX-_6mWPRW3HrInxwFNpG32eWvEV7E3NQ.%26v%3D2%26mac%3DAQEAEAABABTmt6B8RTpjzmImjbugdX487bIRJFBFE2E.
+.netflix.com	FALSE	/	FALSE	1713694414	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSyMBgdecbujZBs8Lrmy3liXxQTQ823Jm8.%26dt%3D1682165616550
+.netflix.com	TRUE	/	TRUE	1682280231	profilesNewSession	0

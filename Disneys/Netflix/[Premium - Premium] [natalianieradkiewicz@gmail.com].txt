@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1683399959	OptanonAlertBoxClosed	2022-05-06T21:05:59.637Z
+.netflix.com	TRUE	/	TRUE	1702843725	nfvdid	BQFmAAEBELFqcT3B_usxQuWA6lx74oxgHJF07W2ffg73nJZfSpTaU7TD97lCJBQc-M-ArvsMR0qR76Zc-xN-XjKn0OGXHrxOLNpWgYaOc6KWnluPDn9sr-lJrhr4QPEL0ztwOcoRDkUZtgT4x4AWy9n5cMMYxYu-
+www.netflix.com	TRUE	/	TRUE	1692275302	didUserInteractWithPage	true
+.netflix.com	FALSE	/	FALSE	1707653356	NetflixId	ct%3DBQAOAAEBEMKV-9E3GdVntkYCjpsZvPmCABUUJGJ4Y8nRP-fd7pK9gBhETrlyn8PcAZvyYzRFo1Wk2pTpRY8YybAJG0nwqQIiG5H2ssyrkZJLkL22smcXjGMvV1tbm6VVDFoKclmWOhDoU9BKM1EnVHVDuImqDDMjDx0NujDFUvC7TYjjsYlkg4xcIJNb5EpxHXr40tA-cKvd1UiGd_hMJdCKT9E6p6CV_e7ifn_TIzhN51lcGSy2gjy06EzvJokDJAsJGg6GkmUlIvfudNcA9WHRpq26bZ42aniw3dJI_xpVJMteoeiYHV0W9UEXJXOXk0mBRwYgpz4hlfcSUNpbikesMCeicxLsZ1XmrLv_29R3Uo9Q1wq2pQQWh4c_odVdbVTCoG4U1jymywq_AW0DanTDo9K6mrST4epA99gFvYdamjtDR2aIQZTc64MErP8r7-dWNCWVP8c4-O0RNe6u_71vc5EknyA34VIGVvfF4TAr6RU7WPTBSkIgNyu9DCMD1Abv-CmNPlBuMB5UoEDh_TGFH4i3yFYxPGmpteWzxzgr-TLwjWINqodf0aTSwHRz6MCO1pe1bbk2wJ1hiAOHqDfCQVCJE7coZGubUa0p-yCRZK_P8sQf4D6M0JqpwE63DAa4YHjGk_O7GHhFFWArIAM5tlXAQJVi79Mmv7kmdU8WX_WEn2zW-MDI_lZfNCuzufp4mVlrGPZK%26bt%3Ddbl%26ch%3DAQEAEAABABSI4FsJgfyLJ02eOo7s6oqKCy65pv7uZgg.%26v%3D2%26mac%3DAQEAEAABABTAjWEIVxdiLHcE5aaLR30F0gi-NvLR0Fc.
+.netflix.com	TRUE	/	TRUE	1707653357	OptanonConsent	isIABGlobal=false&datestamp=Sat+Feb+11+2023+15%3A09%3A17+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202301.1.0&consentId=2b3415a5-a4cb-49ad-b499-76ff6e4bdd6f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&geolocation=PL%3B02&isGpcEnabled=0
+.netflix.com	FALSE	/	FALSE	1707653356	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQkta_6862lY8WoyTS2giP5phWusFLF2G0.%26dt%3D1676124548300
+.netflix.com	TRUE	/	TRUE	1710677356	dsca	customer
+.netflix.com	TRUE	/	TRUE	1676128156	flwssn	6f59112a-6c64-4572-9f39-961c80124592
+.netflix.com	TRUE	/	TRUE	1683893357	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1683893357	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1707653383	memclid	f844448b-c435-4ff0-9981-22f33cade3bb
